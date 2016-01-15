@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Oswaldo\udemy\android_developer\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="C:\Users\Oswaldo\udemy\android_developer\currency-converter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\Oswaldo\udemy\android_developer\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_037c2808b9d343ba5043b0e7a55088bb8cda7d65.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Oswaldo\udemy\android_developer\currency-converter\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_8ebe4137ef33284999c574d35612560f233059af.jar" />
     </item>
     <item
         jar="C:\Users\Oswaldo\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\Oswaldo\udemy\android_developer\CurrencyConverter\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_497e24dd5c726abc01716f2d3f78fbb4f58e9da2.jar" />
+        <dex dex="C:\Users\Oswaldo\udemy\android_developer\currency-converter\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_497e24dd5c726abc01716f2d3f78fbb4f58e9da2.jar" />
     </item>
     <item
-        jar="C:\Users\Oswaldo\udemy\android_developer\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jar="C:\Users\Oswaldo\udemy\android_developer\currency-converter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Oswaldo\udemy\android_developer\currency-converter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_e9929fe1933ed36583d9106787d0778c384cdb68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\udemy\android_developer\currency-converter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\Oswaldo\udemy\android_developer\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_9749e3321a3fc29896bf169faaeffe37ff831ad9.jar" />
-    </item>
-    <item
-        jar="C:\Users\Oswaldo\udemy\android_developer\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\Oswaldo\udemy\android_developer\CurrencyConverter\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_46e834c1c6df9de1e56d8135a749837429d5c41c.jar" />
+        <dex dex="C:\Users\Oswaldo\udemy\android_developer\currency-converter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_07c7a084ef7de40f0567eaa5df95498fc882ffbf.jar" />
     </item>
 
 </items>

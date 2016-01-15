@@ -17,7 +17,18 @@ public class MainActivity extends AppCompatActivity {
     public void convert(View view) {
 
         EditText editText = (EditText)findViewById(R.id.amount);
-        int amount = Integer.parseInt(editText.getText().toString());
+        int amount = 0;
+
+        try {
+
+            amount = Integer.parseInt(editText.getText().toString());
+        }
+        catch (NumberFormatException e) {
+
+            Toast.makeText(getApplicationContext(), "Please enter a valid number.", Toast.LENGTH_LONG)
+                    .show();
+            return;
+        }
 
         Spinner sourceSpinner = (Spinner)findViewById(R.id.sourceSpinner);
         String sourceCurrency = sourceSpinner.getSelectedItem() != null ?
